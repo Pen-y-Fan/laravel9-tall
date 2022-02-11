@@ -4,6 +4,9 @@
     "The :attribute must contain at least one symbol.": "The :attribute must contain at least one symbol.",
     "The :attribute must contain at least one uppercase and one lowercase letter.": "The :attribute must contain at least one uppercase and one lowercase letter.",
     "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "The given :attribute has appeared in a data leak. Please choose a different :attribute.",
-    "Switch language": "Switch language",
-    "Hello": "Hello"
+    "Fred's Team": "L'équipe de Fred",
+    "Team": "Équipe",
+    "Dashboard": "Tableau de bord",
+    "Switch language": "Changer de langue",
+    "Hello": "Bonjour"
 }
